@@ -1,0 +1,10 @@
+_G.loop = true
+
+
+while _G.loop do
+fireclickindicator(tool path here) --click indicator path
+wait(0.5)
+
+for i,v 
+
+end
