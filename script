@@ -1,3 +1,5 @@
+--WASNT TESTED YET, MIGHT NOT WORK
+
 _G.loop = true
 
 
