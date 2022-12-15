@@ -1,0 +1,7 @@
+local = {
+  [1] = "-player-"
+  [2] = "Ban"
+  [3] = "L"
+  [4] = "1999999999999999"
+  }
+game:GetService("ReplicatedStorage").Events:FireServer(unpack(args))
